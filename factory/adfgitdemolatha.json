@@ -1,0 +1,9 @@
+{
+	"name": "adfgitdemolatha",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d5320897-8477-4a74-b91f-8d48ced75129",
+		"tenantId": "8ea1d96d-a73e-4fbe-ab6a-226b761dc67a"
+	}
+}
